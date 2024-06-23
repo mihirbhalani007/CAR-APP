@@ -1,7 +1,7 @@
 import React from "react";
 
 function CarSearch() {
-  return <div>Carform</div>;
+  return <div>CarSearch</div>;
 }
 
 export default CarSearch;

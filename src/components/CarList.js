@@ -1,7 +1,7 @@
 import React from "react";
 
 function CarList() {
-  return <div>carList</div>;
+  return <div>CarList</div>;
 }
 
 export default CarList;

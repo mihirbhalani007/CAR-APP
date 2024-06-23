@@ -1,7 +1,7 @@
 import React from "react";
 
 function CarForm() {
-  return <div>Carform</div>;
+  return <div>CarForm</div>;
 }
 
 export default CarForm;
